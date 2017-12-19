@@ -1,8 +1,6 @@
 [![License badge](https://img.shields.io/badge/license-Apache2-green.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 [![Documentation badge](https://img.shields.io/badge/docs-latest-brightgreen.svg)](http://elastest.io/docs/)
 [![Build Status](https://ci.elastest.io/jenkins/buildStatus/icon?job=elastest-torm/etm)](https://ci.elastest.io/jenkins/job/elastest-torm/job/etm)
-[![Quality Gate](https://sonarcloud.io/api/badges/gate?key=io.elastest:torm)](https://sonarcloud.io/dashboard/index/io.elastest:torm)
-[![codecov](https://codecov.io/gh/elastest/elastest-torm/branch/master/graph/badge.svg)](https://codecov.io/gh/elastest/elastest-torm)
 
 [![][ElasTest Logo]][ElasTest]
 
